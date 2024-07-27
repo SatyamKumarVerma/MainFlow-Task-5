@@ -1,7 +1,7 @@
 # MainFlow-Task-5
-#internship task
+internship task
 
-Engineer new features and select relevant
+Q.Engineer new features and select relevant
 features for model training.
 Responsibility:
 
